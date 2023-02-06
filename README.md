@@ -5,10 +5,10 @@
 # Description
 Flower code tiktok trend 
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
+Responsive Web
 
 # Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Flower Code : https://github.com/HTTPvillacrn/pey-balentimes-palangga-.git
+- 
 
-Thanks to codepan and mdusmanansari
+
